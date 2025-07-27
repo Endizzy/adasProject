@@ -1,0 +1,17 @@
+.Header-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.Header {
+    background-color: #282c34;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.Header-text {
+    color: white;
+
+}
